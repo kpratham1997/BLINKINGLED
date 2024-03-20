@@ -1,2 +1,2 @@
-# BLINKINGLED
-BLINKING LED IN STM32F407 through HAL Level, Register Level and In-Line Assembly
+# Baremetal
+Writing Baremetal code Inspired by Michael Barr's embedded C and C++
